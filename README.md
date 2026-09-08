@@ -1,12 +1,12 @@
-👋 Hi, I'm **Durgesh Sonawane**
+### 👋 Hi, I'm Durgesh Sonawane
 
-🚀 Electronics & Telecommunication Engineering Student at Ajeenkya D Y Patil School of Engineering
+### 🚀 Electronics & Telecommunication Engineering Student at Ajeenkya D Y Patil School of Engineering
 
 <p align="center"> <a href="https://www.linkedin.com/in/durgesh-sonawane-203827255"> <img src="https://img.shields.io/badge/LinkedIn-Durgesh%20Sonawane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/durgeshsonawane1"> <img src="https://img.shields.io/badge/GitHub-Durgesh%20Sonawane-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
 ----
 
-👨‍💻 **About Me**
+### 👨‍💻 **About Me**
 
 I'm an Electronics & Telecommunication Engineering student passionate about combining technology, data, artificial intelligence, and hardware to build practical solutions.
 
@@ -26,7 +26,7 @@ Data Visualization	AI Agents & RAG	Digital Electronics
 
 ----
 
-🛠️ **Technical Skills**
+### 🛠️ **Technical Skills**
 
 💻 Programming
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/> </p>
@@ -45,7 +45,7 @@ Data Visualization	AI Agents & RAG	Digital Electronics
 
 -----
 
-🚀 **Featured Projects**
+### 🚀 **Featured Projects**
 
 💊 **Smart Medicine Reminder Box**
 
@@ -87,18 +87,18 @@ Developed an Arduino-based railway safety system capable of detecting obstacles 
 
 ------
 
-🏆 **Certifications & Learning**
+### 🏆 **Certifications & Learning**
 
 <p align="center"> <img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-Data%20Science%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics-86BC25?style=for-the-badge"/> </p>
 
 ------
 
-📊 **GitHub Stats**
+### 📊 **GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=durgeshsonawane1&theme=neon&hide_border=false&include_all_commits=false&count_private=false" height="180"/> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=durgeshsonawane1&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=durgeshsonawane1&theme=neon&hide_border=false" /> </p>
 
 ------
-📫 **Connect With Me**
+### 📫 **Connect With Me**
 
 <p align="center"> <a href="https://www.linkedin.com/in/durgesh-sonawane-203827255"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/durgeshsonawane1"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
